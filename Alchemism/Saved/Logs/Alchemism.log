@@ -6449,3 +6449,4 @@ C:\Program Files\Epic Games\UE_5.6\Engine\Shaders\Private\DebugViewModePixelShad
 [2026.04.29-19.43.39:763][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5090.213379, Update Interval: 339.938354
 [2026.04.29-19.43.52:156][800]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2026.04.29-19.45.02:759][ 11]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.04.29-19.47.21:926][429]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
