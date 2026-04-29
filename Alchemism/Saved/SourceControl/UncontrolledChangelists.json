@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MGR2025/Alchemism/Alchemism/Content/Night_Vision/Night_Vision.umap",
+				"D:/MGR2025/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/0/QW/N481OBV8APJWU7ASOSOEUU.uasset",
+				"D:/MGR2025/Alchemism/Alchemism/Content/Night_Vision/Grabbable_SmallCube1.uasset",
+				"D:/MGR2025/Alchemism/Alchemism/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"D:/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/0/FV/0GCGWZ3CZ9BPRGE7J0XBOS.uasset",
 				"D:/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/0/GZ/000ZFL1MWC2CDLK3EZHWZ9.uasset",
 				"D:/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/0/KU/RDRJW00PCS261IZ5FOMN6F.uasset",
