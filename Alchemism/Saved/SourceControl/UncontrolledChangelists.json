@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MGR2025/Alchemism/Alchemism/Content/PuzzleSystem/Blueprints/Actors/Simplepuzzle/BP_RotatableObject.uasset",
+				"D:/MGR2025/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/8/KH/PA5P8AFUF8543FLHDCUS61.uasset",
+				"D:/MGR2025/Alchemism/Alchemism/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"H:/UNREAL/Projects/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/C/EI/EF9OW6BNAP2S6OKLVJFLKU.uasset",
 				"H:/UNREAL/Projects/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/B/LT/NZ7796ORL461P0MAJUN01Y.uasset",
 				"H:/UNREAL/Projects/Alchemism/Alchemism/Content/__ExternalActors__/VRTemplate/Maps/VRTemplateMap/6/1P/Y5BM0B7ERDR20Z7ADNW3ZK.uasset",
