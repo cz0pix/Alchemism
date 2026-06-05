@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Alchemism/Alchemism/Content/piwnica_teleport/BP_Piwnica.uasset",
+				"D:/Alchemism/Alchemism/Content/MyMap/Alchemism_V02.umap",
+				"D:/Alchemism/Alchemism/Content/Assets/Trapdoor/SM_Trapdoor_Seperated_Hatch.uasset",
+				"D:/Alchemism/Alchemism/Content/piwnica_teleport/BP_Dzwig.uasset",
+				"D:/Alchemism/Alchemism/Content/piwnica_teleport/fadein/FadeIn.uasset",
+				"D:/Alchemism/Alchemism/Content/piwnica_teleport/fadein/WDG_fadein.uasset",
 				"C:/Users/adrja/Desktop/Alchemism/Alchemism/Content/Assets/M_AssetMaterial.uasset",
 				"C:/Users/adrja/Desktop/Alchemism/Alchemism/Content/Assets/Hands/MI_Hands.uasset",
 				"C:/Users/adrja/Desktop/Alchemism/Alchemism/Content/Assets/Rat/rat_low_Material_001_OcclusionRoughnessMetallic.uasset",
