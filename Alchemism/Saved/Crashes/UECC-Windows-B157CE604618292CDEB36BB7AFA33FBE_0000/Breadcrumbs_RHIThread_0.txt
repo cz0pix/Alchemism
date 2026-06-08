@@ -1,3 +1,0 @@
-Breadcrumbs 'RHIThread'
- - WorldTick
- - Frame 34624
